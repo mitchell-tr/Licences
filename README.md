@@ -6,6 +6,8 @@
 
 The MIT licence allows your code to be modified, copied, distributed and even sold. The licence may be changed by modified forks.
 
+Software using MIT licence: Node.js, JQuery and .NET Core
+
 The Licence looks like this:
 
 ```
@@ -34,11 +36,15 @@ SOFTWARE.
 
 All software with the GNU or GPL licence is open source and will always be open source. You can fork and modify the code but not modify the licence, make it closed source or claim ownership.
 
+Examples of software usage: GIMP, Blender, Bash and MySQL
+
 The licence can be found here: [Link](https://choosealicense.com/licenses/gpl-3.0/)
 
 ### Apache Licence 2.0
 
 This licence allows your work to be sold, modified, trademarked and distributed. It does not however come with a warantee or any guarantees. 
+
+Examples of software: Apache, ASP.NET, PyCharm and TensorFlow
 
 [Link](https://choosealicense.com/licenses/apache-2.0/)
 
